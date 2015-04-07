@@ -53,15 +53,32 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Credit.xaml.cs">
+      <DependentUpon>Credit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HowTo.xaml.cs">
+      <DependentUpon>HowTo.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Optellen.xaml.cs">
       <DependentUpon>Optellen.xaml</DependentUpon>
     </Compile>
     <Compile Include="Tafels.xaml.cs">
       <DependentUpon>Tafels.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Uitleg2.xaml.cs">
+      <DependentUpon>Uitleg2.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Wiskunde.xaml.cs">
       <DependentUpon>Wiskunde.xaml</DependentUpon>
     </Compile>
+    <Page Include="Credit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HowTo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Inlogscherm.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -83,6 +100,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Tafels.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Uitleg2.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
