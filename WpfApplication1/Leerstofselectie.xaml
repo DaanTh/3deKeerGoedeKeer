@@ -8,6 +8,7 @@
             <Button Content="Wiskunde" HorizontalAlignment="Left" Margin="224,114,0,0" VerticalAlignment="Top" Width="210" Height="36" FontSize="20" Foreground="#7A5230" Background="#FFFFE0" Click="wiskunde_Click"/>
             <Button Content="Taal" HorizontalAlignment="Left" Margin="224,182,0,0" VerticalAlignment="Top" Width="210" Height="36" FontSize="20" Foreground="#7A5230" Background="#FFFFE0"/>
             <Button Content="Algemene Kennis" HorizontalAlignment="Left" Margin="224,246,0,0" VerticalAlignment="Top" Width="210" Height="36" FontSize="20" Foreground="#7A5230" Background="#FFFFE0" Click="Button_Click"/>
+            <Button Content="Startscherm" HorizontalAlignment="Left" Margin="10,304,0,0" VerticalAlignment="Top" Width="129" Height="30" Click="Startscherm_Click_1"/>
         </Grid>
     </Grid>
 </Window>

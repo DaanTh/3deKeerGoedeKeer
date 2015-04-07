@@ -16,6 +16,9 @@ using System.IO;
 
 //Author : Daan Theunis
 //Date : 03.04.2015 18:56
+
+//Author : Axel Bollen
+//Date : 07.04.2015 16:19
 namespace ProjectChallenge
 {
 
@@ -59,8 +62,8 @@ namespace ProjectChallenge
             }
             else if (wachtwoord == wachtwoordFile)
             {
-                Window2 leerstof = new Window2();
-                leerstof.Show();
+                HowToPlay selectie = new HowToPlay(); // HowToPlay window ipv direct naar leerstofselectie
+                selectie.Show();
                 this.Close();
             }
             else
