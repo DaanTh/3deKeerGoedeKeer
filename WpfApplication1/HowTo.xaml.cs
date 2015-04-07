@@ -43,7 +43,7 @@ namespace ProjectChallenge
 
         private void Uitleg_Click(object sender, RoutedEventArgs e)
         {
-            Uitleg uitleg = new Uitleg();
+            Uitleg2 uitleg = new Uitleg2();
             uitleg.Show();
             this.Close();
         }

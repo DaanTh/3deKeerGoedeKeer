@@ -1,8 +1,9 @@
-﻿<Window x:Class="WpfApplication1.Uitleg2"
+﻿<Window x:Class="ProjectChallenge.Uitleg2"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Uitleg2" Height="300" Width="300">
-    <Grid>
-        
+        Title="Uitleg" Height="300" Width="300">
+    <Grid Background="#FFFFAC">
+        <TextBlock HorizontalAlignment="Left" Margin="118,10,0,0" TextWrapping="Wrap" Text="Uitleg" VerticalAlignment="Top" FontSize="18"/>
+        <Button Content="Startscherm" HorizontalAlignment="Left" Margin="10,240,0,0" VerticalAlignment="Top" Width="91" Height="20" Click="Button_Click"/>
     </Grid>
 </Window>

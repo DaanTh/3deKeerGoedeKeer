@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WpfApplication1
+namespace ProjectChallenge
 {
     /// <summary>
     /// Interaction logic for Uitleg2.xaml
@@ -22,6 +22,13 @@ namespace WpfApplication1
         public Uitleg2()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            HowToPlay hoe = new HowToPlay();
+            hoe.Show();
+            this.Close();
         }
     }
 }
