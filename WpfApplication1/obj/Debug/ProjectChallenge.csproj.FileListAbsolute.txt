@@ -18,3 +18,22 @@ c:\users\daan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplicati
 c:\users\daan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\ProjectChallenge.exe\WpfApplication1.exe\WpfApplication1.pdb
 c:\users\daan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.exe
 c:\users\daan\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\bin\Debug\ProjectChallenge.exe\WpfApplication1.exe\WpfApplication1.exe.config
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\bin\Debug\ProjectChallenge.exe\WpfApplication1.exe\WpfApplication1.exe
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\bin\Debug\ProjectChallenge.exe\WpfApplication1.exe\WpfApplication1.pdb
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\ProjectChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Inlogscherm.baml
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Leerstofselectie.baml
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Tafels.baml
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Wiskunde.baml
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Inlogscherm.g.cs
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Leerstofselectie.g.cs
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Tafels.g.cs
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Wiskunde.g.cs
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\ProjectChallenge.csproj.GenerateResource.Cache
