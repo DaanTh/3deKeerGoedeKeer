@@ -82,6 +82,10 @@ namespace ProjectChallenge
 
         private void optellingen_Click(object sender, RoutedEventArgs e)
         {
+            Optellen optellen = new Optellen();
+            optellen.Show();
+            this.Close();
+
         }
 
         private void delingen_Click(object sender, RoutedEventArgs e)

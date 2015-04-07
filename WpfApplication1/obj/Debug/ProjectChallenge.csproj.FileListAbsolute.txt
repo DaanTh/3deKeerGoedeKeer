@@ -37,3 +37,5 @@ C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApp
 C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1.g.resources
 C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
 C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\ProjectChallenge.csproj.GenerateResource.Cache
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Optellen.baml
+C:\Users\Daan\Documents\GitHub\3deKeerGoedeKeer\WpfApplication1\obj\Debug\Optellen.g.cs
